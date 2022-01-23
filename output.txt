@@ -1,0 +1,29 @@
+The list in name-alphabetical order:
+	1. Ayse Yilmaz  1204
+	2. Ela Kara     1980
+	3. Emre Kiraz   17895
+	4. Fatma Ozde	1001
+	5. Ismail Celik 1345
+	6. Lale Erbay   78963	
+	7. Mehmet Ari   1441
+	8. Veli Arslan   1515
+	
+The list in surname-alphabetical order:
+	1. Mehmet Ari	1441
+	2. Veli Arslan	1515
+	3. Ismail Celik	1345
+	4. Lale Erbay	78963
+	5. Ela Kara		1980
+	6. Emre Kiraz	17895
+	7. Fatma Ozde	1001
+	8. Ayse Yilmaz	1204
+	
+The list in ID sorted order:
+	1. Fatma Ozde	1001
+	2. Ayse Yilmaz	1204
+	3. Ismail Celik	1345
+	4. Mehmet Ari	1441
+	5. Veli Arslan	1515
+	6. Ela Kara		1980
+	7. Emre Kiraz	17895
+	8. Lale Erbay	78963
