@@ -1,2 +1,2 @@
 # cse1142_HW4
-usage of linkedlists in c 
+i have done this homework in CSE1142. It is about linkedlist in c language 
